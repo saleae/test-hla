@@ -1,0 +1,13 @@
+{
+  "name": "Sample HLA",
+  "apiVersion": "1.0.0",
+  "author": "Paul Young",
+  "version": "0.0.1",
+  "description": "A simple HLA that outputs protocol frame details.",
+  "extensions": {
+    "Sample HLA": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "HighLevelAnalyzer.Hla"
+    }
+  }
+}
