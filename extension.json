@@ -1,5 +1,5 @@
 {
-  "name": "Sample HLA",
+  "name": "Sample High Level Analyzer that outputs protocol frame details",
   "apiVersion": "1.0.0",
   "author": "Paul Young",
   "version": "0.0.1",
